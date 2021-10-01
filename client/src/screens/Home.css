@@ -1,0 +1,19 @@
+.h1-text {
+
+  display: block;
+ 
+  inline-size: 550px;
+  transform: translate(470px,-140px);
+
+}
+
+
+.logo {
+
+  display: inline-flex;
+  transform: translate(590px,370px);
+  width: 250px;
+  height: 300px;
+  
+
+}
